@@ -1,0 +1,3 @@
+hello,hola,sup,yo
+bye,later,peace
+boy,man,bro
